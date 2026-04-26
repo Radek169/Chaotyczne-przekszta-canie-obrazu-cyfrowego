@@ -52,5 +52,7 @@ Zainstaluj wymagane biblioteki
 
 ## Struktura projektu
 chaotic-image-scrambling/
+
 ├── README.md
+
 ├── projekt.py
