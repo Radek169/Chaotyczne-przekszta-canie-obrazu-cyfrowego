@@ -1,0 +1,1 @@
+# Chaotyczne-przekszta-canie-obrazu-cyfrowego
