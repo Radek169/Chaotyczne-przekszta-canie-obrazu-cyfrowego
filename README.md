@@ -50,5 +50,7 @@ Pobierz lub sklonuj repozytorium
 
 Zainstaluj wymagane biblioteki
 
-```bash
-pip install numpy pillow
+## Struktura projektu
+chaotic-image-scrambling/
+├── README.md
+├── projekt.py
